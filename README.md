@@ -6,4 +6,4 @@
     - A song by that artist
 1. Once the set is populated with 7 tuples, iterate over the set of songs, and check if the band name is "Nickelback".
 1. If the band is **not** Nickelback, then add it to the `goodSongs` list.
-1. USe another `foreach` loop to print out all the good songs.
+1. Use another `foreach` loop to print out all the good songs.
